@@ -52,7 +52,7 @@ By analyzing different hardware and brand features, this model helps estimate a 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/laptop-price-prediction.git
+git clone https://github.com/anand193/laptop-price-prediction.git
 cd laptop-price-prediction 
 ```
 ### 2️⃣ Create a Virtual Environment
@@ -60,22 +60,22 @@ cd laptop-price-prediction
 python -m venv .venv
 ```
 ### 3️⃣ Activate the Environment
-
+```bash
 source .venv/Scripts/activate
-
+```
 ### 4️⃣ Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ### 5️⃣ Run the Streamlit App
-
+```
 streamlit run app.py
-
+```
 ### 6️⃣ Open in Browser
-
+```
 After running the above command, Streamlit will display a local URL (like http://localhost:8501).
 Click the link or paste it into your browser to launch the app.
-
+```
 ---
 
 ## 📈 Model Performance
