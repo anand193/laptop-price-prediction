@@ -54,3 +54,5 @@ By analyzing different hardware and brand features, this model helps estimate a 
 ```bash
 git clone https://github.com/yourusername/laptop-price-prediction.git
 cd laptop-price-prediction
+
+### 2️⃣ Create a Virtual Environment
