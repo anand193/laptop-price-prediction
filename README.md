@@ -80,29 +80,29 @@ Click the link or paste it into your browser to launch the app.
 
 ## 📈 Model Performance
 
-Achieved strong predictive performance with R² Score > 0.85
-Random Forest Regressor produced the most reliable results
-Model efficiently generalizes across various brands and configurations
+- Achieved strong predictive performance with R² Score > 0.85
+- Random Forest Regressor produced the most reliable results
+- Model efficiently generalizes across various brands and configurations
 
 ---
 
 ## 📊 EDA Insights
 
-Processor Type, RAM, and Brand were among the strongest predictors of price
-High-end GPUs and SSDs significantly increase laptop prices
+- Processor Type, RAM, and Brand were among the strongest predictors of price
+- High-end GPUs and SSDs significantly increase laptop prices
 
 ---
 
 ## 👨‍💻 Author
 
-Anand Mehto
-📧 anandmehto78@gmail.com
-🔗 linkedin.com/in/anandmehto
+- Anand Mehto
+- 📧 anandmehto78@gmail.com
+- 🔗 linkedin.com/in/anandmehto
 
 ---
 
 ## 🏆 Acknowledgment
 
-This project was developed as part of my Data Science learning journey to demonstrate:
-End-to-end ML workflow (EDA → Feature Engineering → Model Building → Deployment)
-Real-world problem solving through data-driven decision-making
+- This project was developed as part of my Data Science learning journey to demonstrate:
+- End-to-end ML workflow (EDA → Feature Engineering → Model Building → Deployment)
+- Real-world problem solving through data-driven decision-making
