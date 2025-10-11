@@ -51,8 +51,52 @@ By analyzing different hardware and brand features, this model helps estimate a 
 ## 🧩 Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/yourusername/laptop-price-prediction.git
 cd laptop-price-prediction
 
 ### 2️⃣ Create a Virtual Environment
+
+python -m venv .venv
+
+### 3️⃣ Activate the Environment
+
+source .venv/Scripts/activate
+
+### 4️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+### 5️⃣ Run the Streamlit App
+
+streamlit run app.py
+
+### 6️⃣ Open in Browser
+
+After running the above command, Streamlit will display a local URL (like http://localhost:8501).
+Click the link or paste it into your browser to launch the app.
+
+---
+
+## 📈 Model Performance
+
+Achieved strong predictive performance with R² Score > 0.85
+Random Forest Regressor produced the most reliable results
+Model efficiently generalizes across various brands and configurations
+
+## 📊 EDA Insights
+
+Processor Type, RAM, and Brand were among the strongest predictors of price
+High-end GPUs and SSDs significantly increase laptop prices
+
+## 👨‍💻 Author
+
+Anand Mehto
+📧 anandmehto78@gmail.com
+🔗 linkedin.com/in/anandmehto
+
+## 🏆 Acknowledgment
+
+This project was developed as part of my Data Science learning journey to demonstrate:
+End-to-end ML workflow (EDA → Feature Engineering → Model Building → Deployment)
+Real-world problem solving through data-driven decision-making
