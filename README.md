@@ -51,14 +51,14 @@ By analyzing different hardware and brand features, this model helps estimate a 
 ## 🧩 Installation & Setup
 
 ### 1️⃣ Clone the repository
-
+```bash
 git clone https://github.com/yourusername/laptop-price-prediction.git
-cd laptop-price-prediction
-
+cd laptop-price-prediction 
+```
 ### 2️⃣ Create a Virtual Environment
-
+```bash
 python -m venv .venv
-
+```
 ### 3️⃣ Activate the Environment
 
 source .venv/Scripts/activate
@@ -84,16 +84,22 @@ Achieved strong predictive performance with R² Score > 0.85
 Random Forest Regressor produced the most reliable results
 Model efficiently generalizes across various brands and configurations
 
+---
+
 ## 📊 EDA Insights
 
 Processor Type, RAM, and Brand were among the strongest predictors of price
 High-end GPUs and SSDs significantly increase laptop prices
+
+---
 
 ## 👨‍💻 Author
 
 Anand Mehto
 📧 anandmehto78@gmail.com
 🔗 linkedin.com/in/anandmehto
+
+---
 
 ## 🏆 Acknowledgment
 
